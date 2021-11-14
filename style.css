@@ -1,21 +1,4 @@
-///**********
-body {
-  background-color: #DBF6E9;
-      }
- hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
-}
-h1 {
-    color : #31326F;
-}
-h3 {
-  color: #31326F;
-}
-**********///
+
 body {
      margin:0px;
      text-align: center;
